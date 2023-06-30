@@ -1,0 +1,12 @@
+---
+:id: 172604796
+:submitters:
+- :name: Eric Wu
+  :email: eric.wu52@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-04-04 18:52:54.167966000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-04-04 11:52:54.167966000 Z
+:status: processed
+:score: 100.0
